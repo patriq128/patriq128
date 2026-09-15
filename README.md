@@ -13,3 +13,4 @@ This is my GitHub page where I share my work, experiments, and things I build. T
 
 <h2>My projects:</h2>
 <h3># My favourites projects:</h3>
+<a href="https://github.com/patriq128/PicoOS">PicoOS</a> <p>--Operating System coded in MicroPython made primary for Raspberry pi pico family</p>
