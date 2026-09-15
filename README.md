@@ -26,3 +26,10 @@ This is my GitHub page where I share my work, experiments, and things I build. T
 
 <a href="https://github.com/patriq128/MyTtiny" target="_blank">MyTtiny</a>
 <span> -- My own development board based on the ATtiny3217 microcontroller.</span>
+
+<h3># Vibecoded:</h3>
+
+<a href="https://github.com/patriq128/fly_brain_sim" target="_blank">fly_brain_sim</a>
+
+<a href="https://github.com/patriq128/Poly_Arena" target="_blank">Poly_Arena</a>
+<span> -- An advanced multi-agent AI debate system for Polymarket prediction markets — structured outputs, meta-agent judge, disagreement heatmap, track record system, and post-debate chat. Powered by Groq.</span>
