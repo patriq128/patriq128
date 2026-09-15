@@ -11,7 +11,18 @@ This is my GitHub page where I share my work, experiments, and things I build. T
     <h3>Me behind the computer :3</h3><img src="https://emoji.slack-edge.com/T09V59WQY1E/3-blahaj-spinning/3814527118f8ddd7.gif" width="10%"/>
 </div>
 
-<h2>My projects:</h2>
-<h3># My favourites projects:</h3>
+
+<h2>My Projects:</h2>
+<h3># My Favourite Projects:</h3>
+
 <a href="https://github.com/patriq128/PicoOS" target="_blank">PicoOS</a>
-<span> -- Operating System coded in MicroPython made primarily for the Raspberry Pi Pico family</span>
+<span> -- An operating system written in MicroPython, designed primarily for the Raspberry Pi Pico family.</span>
+
+<a href="https://github.com/patriq128/Pi_Key" target="_blank">Pi_Key</a>
+<span> -- A device for storing AI API keys and conversation history locally.</span>
+
+<a href="https://github.com/patriq128/PadeXa" target="_blank">PadeXa</a>
+<span> -- Easy-to-use software and firmware for configuring and customizing your Hackpad.</span>
+
+<a href="https://github.com/patriq128/MyTtiny" target="_blank">MyTtiny</a>
+<span> -- My own development board based on the ATtiny3217 microcontroller.</span>
