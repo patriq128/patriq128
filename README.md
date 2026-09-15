@@ -10,3 +10,6 @@ This is my GitHub page where I share my work, experiments, and things I build. T
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHY5cWRxNTQ1YjJiZHgzenNtYTNpeDlyNDh3ZDRtdG11eWI4bnVhZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YAnpMSHcurJVS/giphy.gif" width="50%"/>
     <h3>Me behind the computer :3</h3><img src="https://emoji.slack-edge.com/T09V59WQY1E/3-blahaj-spinning/3814527118f8ddd7.gif" width="10%"/>
 </div>
+
+<h2>My projects:</h2>
+<h3># My favourites projects:</h3>
