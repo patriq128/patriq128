@@ -13,8 +13,8 @@ This is my GitHub page where I share my work, experiments, and things I build. T
 
 
 <h2>My Projects:</h2>
-<h3># My Favourite Projects:</h3>
 
+<h3># My Favourite Projects:</h3>
 <a href="https://github.com/patriq128/PicoOS" target="_blank">PicoOS</a>
 <span> -- An operating system written in MicroPython, designed primarily for the Raspberry Pi Pico family.</span>
 
@@ -28,8 +28,14 @@ This is my GitHub page where I share my work, experiments, and things I build. T
 <span> -- My own development board based on the ATtiny3217 microcontroller.</span>
 
 <h3># Vibecoded:</h3>
-
 <a href="https://github.com/patriq128/fly_brain_sim" target="_blank">fly_brain_sim</a>
 
 <a href="https://github.com/patriq128/Poly_Arena" target="_blank">Poly_Arena</a>
 <span> -- An advanced multi-agent AI debate system for Polymarket prediction markets — structured outputs, meta-agent judge, disagreement heatmap, track record system, and post-debate chat. Powered by Groq.</span>
+
+<h3>Hardware projects:</h3>
+<a href="https://github.com/patriq128/Simon-Says-WAKE-UP" target="_blank">Simon-Says-WAKE-UP</a>
+<span>An alarm clock where you have to play a game of Simon Says to turn off the alarm.</span>
+
+<a href="https://github.com/patriq128/ZiDi_Hackpad" target="_blank">ZiDi_Hackpad</a>
+<span>Small hackpad with 6 keys, Oled display, Rotary Encoder </span>
