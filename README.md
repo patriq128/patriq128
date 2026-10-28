@@ -15,27 +15,108 @@ This is my GitHub page where I share my work, experiments, and things I build. T
 <h2>My Projects:</h2>
 
 <h3># My Favourite Projects:</h3>
-<a href="https://github.com/patriq128/PicoOS" target="_blank">PicoOS</a>
-<span> -- An operating system written in MicroPython, designed primarily for the Raspberry Pi Pico family.</span>
+## 🚀 Featured Projects
 
-<a href="https://github.com/patriq128/Pi_Key" target="_blank">Pi_Key</a>
-<span> -- A device for storing AI API keys and conversation history locally.</span>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/patriq128/PadeXa" target="_blank">PadeXa</a>
-<span> -- Easy-to-use software and firmware for configuring and customizing your Hackpad.</span>
+### 🐧 PicoOS
 
-<a href="https://github.com/patriq128/MyTtiny" target="_blank">MyTtiny</a>
-<span> -- My own development board based on the ATtiny3217 microcontroller.</span>
+An operating system written in MicroPython, designed primarily for the Raspberry Pi Pico family.
 
-<h3># Vibecoded:</h3>
-<a href="https://github.com/patriq128/fly_brain_sim" target="_blank">fly_brain_sim</a>
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/patriq128/PicoOS)
+[![View Code](https://img.shields.io/badge/View-Code-7aa2f7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/patriq128/PicoOS)
 
-<a href="https://github.com/patriq128/Poly_Arena" target="_blank">Poly_Arena</a>
-<span> -- An advanced multi-agent AI debate system for Polymarket prediction markets — structured outputs, meta-agent judge, disagreement heatmap, track record system, and post-debate chat. Powered by Groq.</span>
+</td>
+<td width="50%" valign="top">
 
-<h3>Hardware projects:</h3>
-<a href="https://github.com/patriq128/Simon-Says-WAKE-UP" target="_blank">Simon-Says-WAKE-UP</a>
-<span>An alarm clock where you have to play a game of Simon Says to turn off the alarm.</span>
+### 🔑 Pi_Key
 
-<a href="https://github.com/patriq128/ZiDi_Hackpad" target="_blank">ZiDi_Hackpad</a>
-<span>Small hackpad with 6 keys, Oled display, Rotary Encoder </span>
+A device for storing AI API keys and conversation history locally.
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/patriq128/Pi_Key)
+[![View Code](https://img.shields.io/badge/View-Code-7aa2f7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/patriq128/Pi_Key)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⌨️ PadeXa
+
+Easy-to-use software and firmware for configuring and customizing your Hackpad.
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/patriq128/PadeXa)
+[![View Code](https://img.shields.io/badge/View-Code-7aa2f7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/patriq128/PadeXa)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔌 MyTtiny
+
+My own development board based on the ATtiny3217 microcontroller.
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/patriq128/MyTtiny)
+[![View Code](https://img.shields.io/badge/View-Code-7aa2f7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/patriq128/MyTtiny)
+
+</td>
+</tr>
+</table>
+
+## 🤖 AI-Assisted Projects
+
+<sub>Projects developed with AI assistance.</sub>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🪰 fly_brain_sim
+
+A simulation exploring the computational modeling of a fly's brain.
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/patriq128/fly_brain_sim)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Poly_Arena
+
+A multi-agent AI debate system for Polymarket prediction markets, powered by Groq.
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/patriq128/Poly_Arena)
+[![Powered by Groq](https://img.shields.io/badge/Powered%20by-Groq-f55036?style=for-the-badge)](https://groq.com/)
+
+</td>
+</tr>
+</table>
+
+## 🔧 Hardware Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⏰ Simon-Says-WAKE-UP
+
+An alarm clock that makes you play Simon Says before you can turn off the alarm.
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/patriq128/Simon-Says-WAKE-UP)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎛️ ZiDi_Hackpad
+
+A compact six-key hackpad featuring an OLED display and a rotary encoder.
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/patriq128/ZiDi_Hackpad)
+
+</td>
+</tr>
+</table>
+
+---
+
+<sub>Built with curiosity, code, and a little bit of hardware magic. ⚡</sub>
